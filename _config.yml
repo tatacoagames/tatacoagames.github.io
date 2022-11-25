@@ -1,7 +1,7 @@
 title: TatacoaGames
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: Pagina Web de TatacoaGames
 
-url: https://long-haul.netlify.app
+url: https://tatacoagames.click
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
