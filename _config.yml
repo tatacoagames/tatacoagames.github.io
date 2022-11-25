@@ -10,8 +10,13 @@ permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate]
+plugins: 
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- [jekyll-paginate]
 paginate: 5
+remote_theme: pages-themes/cayman@v0.2.0
+
+
 
 navigation:
   - title: Home
