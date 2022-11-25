@@ -33,7 +33,6 @@ social:
   email: brimaidesigns@gmail.com
   linkedin: brianmaierjr
 
-google_analytics: false
-google_adsense: true
+google_adsense: True
 disqus:
     shortname: brianmaierjr
